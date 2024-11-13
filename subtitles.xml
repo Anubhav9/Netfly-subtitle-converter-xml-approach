@@ -1,0 +1,66 @@
+<tt
+	xmlns="http://www.w3.org/ns/ttml"
+	xmlns:ebutts="urn:ebu:tt:style"
+	xmlns:nttm="http://www.netflix.com/ns/ttml#metadata"
+	xmlns:tt="http://www.w3.org/ns/ttml"
+	xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+	xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="ja">
+	<head>
+		<metadata nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="5072721b-2bc5-4150-8d5d-fa7f4e2d490b"/>
+		<styling>
+			<initial tts:backgroundColor="transparent" tts:color="white" tts:extent="80.000% 80.000%" tts:fontFamily="Japanese" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textOutline="black 0.050em" tts:writingMode="lrtb"/>
+			<style xml:id="style0" tts:fontSize="100.000%" tts:rubyReserve="outside" tts:textAlign="center"/>
+			<style xml:id="style1" tts:fontSize="100.000%" tts:rubyReserve="outside"/>
+			<style xml:id="style2" tts:fontSize="100.000%" tts:ruby="container"/>
+			<style xml:id="style3" tts:fontSize="100.000%" tts:ruby="base"/>
+			<style xml:id="style4" tts:ruby="text" tts:rubyAlign="center" tts:rubyPosition="outside"/>
+			<style xml:id="style5" tts:fontSize="100.000%" tts:rubyReserve="outside" tts:shear="16.670%" tts:textAlign="center"/>
+			<style xml:id="style6" tts:fontSize="100.000%" tts:ruby="container" tts:shear="16.670%"/>
+			<style xml:id="style7" tts:fontSize="100.000%" tts:ruby="base" tts:shear="16.670%"/>
+			<style xml:id="style8" tts:ruby="text" tts:rubyAlign="center" tts:rubyPosition="outside" tts:shear="16.670%"/>
+			<style xml:id="style9" tts:fontSize="100.000%" tts:rubyReserve="outside" tts:shear="16.670%"/>
+			<style xml:id="style10" tts:fontSize="100.000%" tts:rubyReserve="outside" tts:shear="16.670%" tts:textAlign="start"/>
+		</styling>
+		<layout>
+			<region xml:id="region0" ebutts:multiRowAlign="start" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%" tts:writingMode="lrtb"/>
+			<region xml:id="region1" ebutts:multiRowAlign="start" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%" tts:writingMode="tbrl"/>
+		</layout>
+	</head>
+	<body>
+		<div>
+			<p xml:id="subtitle1" begin="267760000t" end="298630000t" region="region0" style="style0">
+				<span style="style1">
+（
+
+					<span style="style2">
+						<span style="style3">秋乃</span>
+						<span style="style4">あきの</span>
+					</span>
+）あ… ん？
+
+				</span>
+			</p>
+			<p xml:id="subtitle2" begin="308640000t" end="353680000t" region="region0" style="style0">
+				<span style="style1">
+（
+
+					<span style="style2">
+						<span style="style3">北極</span>
+						<span style="style4">ほっきょく</span>
+					</span>
+百貨店の店内ＢＧＭ）
+
+				</span>
+			</p>
+			<p xml:id="subtitle3" begin="354520000t" end="368700000t" region="region0" style="style0">
+				<span style="style1">あ…</span>
+			</p>
+			<p xml:id="subtitle4" begin="409150000t" end="475470000t" region="region0" style="style0">
+				<span style="style1">（大きくなる店内ＢＧＭ）</span>
+			</p>
+			<p xml:id="subtitle5" begin="514260000t" end="528440000t" region="region0" style="style0">
+				<span style="style1">わあ…</span>
+			</p>
+		</div>
+	</body>
+</tt>
